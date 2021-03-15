@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #2e3141;
-		background-image: url(/Users/resilient/Downloads/html5up-solid-state/images/topimg1.jpg);
+		background-image: url('../../images/topimg1.jpg');
 		background-size: auto, cover;
 		background-attachment: fixed, fixed;
 		background-position: center, center;
@@ -259,6 +259,8 @@ input, select, textarea {
 		margin: 0 0 1em 0;
 		text-transform: uppercase;
 	}
+
+
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
 			color: inherit;
